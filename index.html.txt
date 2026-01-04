@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>A69 | IT & Computer Solutions</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>A69</h1>
+    <p>IT & Computer Development</p>
+</header>
+
+<nav>
+    <a href="#about">About</a>
+    <a href="#services">Services</a>
+    <a href="#contact">Contact</a>
+</nav>
+
+<section class="hero">
+    <h2>Modern IT Solutions</h2>
+    <p>Software • Networking • Computer Services</p>
+</section>
+
+<section id="about" class="section">
+    <h2>About A69</h2>
+    <p>
+        A69 is a professional IT & computer development service provider,
+        offering modern software and technology solutions.
+    </p>
+</section>
+
+<section id="services" class="section dark">
+    <h2>Our Services</h2>
+    <ul>
+        <li>Software Development</li>
+        <li>Website Design</li>
+        <li>Computer Maintenance</li>
+        <li>Networking & IT Support</li>
+    </ul>
+</section>
+
+<section id="contact" class="section">
+    <h2>Contact Us</h2>
+    <p>Email: info@a69-it.com</p>
+    <p>Phone: +964 000 000 0000</p>
+</section>
+
+<footer>
+    <p>© 2026 A69 – All Rights Reserved</p>
+</footer>
+
+</body>
+</html>
